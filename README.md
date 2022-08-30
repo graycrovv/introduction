@@ -1,4 +1,4 @@
-- Hi, I’m @graycrovv 🪶
+- Hi, I’m Alina 🪶
 - Currently learning JavaScript! 
 - Self-taught! ✨
 
