@@ -1,5 +1,5 @@
 - Hi, I’m Alina 🪶
-- Currently learning JavaScript! 
+- Currently learning Frontend Development! 
 - Self-taught! ✨
 - profile picture from: https://www.instagram.com/FalseKnees/
 
